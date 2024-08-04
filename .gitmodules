@@ -1,0 +1,6 @@
+[submodule "BeFit_backend"]
+	path = BeFit_backend
+	url = https://github.com/Ryocchi-Muscle/BeFit_backend.git
+[submodule "BeFit_frontend"]
+	path = BeFit_frontend
+	url = https://github.com/Ryocchi-Muscle/BeFit_frontend.git
